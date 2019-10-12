@@ -1,0 +1,39 @@
+ASSIGNMENT
+Introduction You have joined a new travel agency called Travel363 who is looking to create a website. Choose a destination or city you have been to or would like to go to to feature for Travel363. Your job is to design, develop, and deploy a responsive website that highlights your chosen destination and gives information to potential visitors.
+There are two deliverables for this project. The first deliverable is a responsive design of the webpage in Figma. The goal is to plan out what you want your webpage to look like before jumping into any code. Think through what you want to highlight or inform visitors about with your chosen destination. The ultimate goal (call to action) of the webpage should be to inform and get people to book a trip through Travel363 to that destination. You will create three artboards in Figma to represent your design at various screen sizes: mobile, tablet, and desktop. Start with your design at its mobile size, and utilize components and constraints in Figma to create an artboard that will almost transform itself into the tablet size when resizing the artboard.
+Once you have your design completed, the second deliverable is to take your design and implement it using HTML and CSS. Using Bootstrap's responsive grid system and components, your own stylesheet, and incorporating transitions and animations, you will create a fully responsive and interactable webpage for users. The webpage should adapt and look equally well from devices as small as 375px wide and up through 1920px wide. The source code of your website will be committed and pushed to a personal repository on GitHub. You will use GitHub pages to deploy a live version of your website on the internet for free.
+REQUIREMENTS
+- must have a form 
+- must have at least a mobile and desktop designed
+- 3 pages, 3 frames
+
+
+
+NOTES
+Place: Telluride, CO
+Design concept: foggy, foresty, deep greens and light grey/whites
+Color palette: #335F4C #B5C098 #ADDBD9 (deep green, light green, light cyan, white, black)
+Design elements: dissolving transitions, low-opacity overlays, light drop shadows
+Pages: homepage, activities page, trip planning
+
+HOMEPAGE 
+- hero scroller thing
+    - article (reason to visit)
+    - ski resort
+    - explore the town
+- article (why telluride is the best small town)
+- activities (skiing, all winter activities)
+- events (mushroom festival, jazz festival, etc.)
+- dining
+- 'this could be you'
+    - reviews of ski resorts (blog post format)
+    - form: 'already been? tell us about it!'
+
+ACTIVITIES
+- skiing
+- hiking trails
+- events
+
+BOOKING
+- 
+- search for flights
