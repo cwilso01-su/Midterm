@@ -1,0 +1,19 @@
+.navbar {
+    background-color: $muteGreen;
+    height: 120px;
+    font-size: 24px;
+    img {
+        height: 79px;
+        width: auto;
+    }
+}
+#navbarSupportedContent {
+    background-color: $muteGreen;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    z-index: 1000;
+}
+.nav-item {
+    text-align: right;
+    margin-right: 10px;
+}

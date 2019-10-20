@@ -1,0 +1,21 @@
+.summary {
+    p {
+        text-align: right;
+    }
+}
+.thumbnail {
+    height: 30vh;
+    overflow: hidden;
+    width: 100%;
+    img {
+        height: 100%;
+        object-fit: cover;
+        flex: 1;
+    }
+}
+.full {
+    padding: 5px;
+    .thumbnail {
+        height: 45vh;
+    }
+}
